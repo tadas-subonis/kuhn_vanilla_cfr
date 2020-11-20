@@ -1,4 +1,4 @@
-# Vanilla Counterfactual Regret Minimization
+# Vanilla Counterfactual Regret Minimization with Rust
 
 for [Kuhn poker](https://en.wikipedia.org/wiki/Kuhn_poker)
 
